@@ -1,5 +1,6 @@
 h1. Howto install a Puppet Master and Client Server on CentOS 5
 
 h3. Author
+
 Wagner Souza <wagnersza@gmail.com>
-http://wagnersza.github.com
+https://github.com/wagnersza
