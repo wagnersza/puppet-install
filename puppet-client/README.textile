@@ -7,7 +7,7 @@ h1. Howto install a Puppet Client on CentOS 5
 	$ rpm -Ivh puppetlabs-repo-3.0-2.noarch.rpm	
 </pre>
 
-# Install Puppet Packages
+## Install Puppet Packages
 
 <pre>
 	# yum install puppet-server
