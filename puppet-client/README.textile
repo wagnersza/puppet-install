@@ -13,3 +13,8 @@ h1. Howto install a Puppet Client on CentOS 5
 	# yum install puppet-server
 	# yum install puppet-dashboard
 </pre>
+
+h2. Author
+
+Wagner Souza <wagnersza@gmail.com>
+https://github.com/wagnersza
