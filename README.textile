@@ -1,0 +1,1 @@
+h1. Howto install a Puppet Master and Client Server on CentOS 5
