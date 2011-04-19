@@ -1,5 +1,20 @@
 h1. Howto install a Puppet Master on CentOS 5
 
+* Install Puppet Labs rpm repository
+
+<pre>
+	# wget http://yum.puppetlabs.com/base/puppetlabs-repo-3.0-2.noarch.rpm
+	# rpm -ivh puppetlabs-repo-3.0-2.noarch.rpm
+	# cd /etc/yum.repos.d
+	# wget http://yum.puppetlabs.com/prosvc/prosvc.repo
+</pre>
+
+* Install Puppet Packages
+
+<pre>
+	# yum install puppet-server puppet-dashboard
+</pre>
+
 h2. Author
 
 Wagner Souza <wagnersza@gmail.com>
